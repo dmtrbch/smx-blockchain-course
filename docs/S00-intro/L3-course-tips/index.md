@@ -1,12 +1,6 @@
 # How to be Successful in this Course
 
-## Make Sure to Take Basic Training
-
-We built a course called ["Before the Bootcamp: Basic Training,"](https://courses.consensys.net/courses/bootcamp-basic-training){target=_blank} which will help you start off the course on the best foot. We've included all the things we believe make successful students for the Bootcamp. It's a prerequisite for the course!
-
 ## Growth Mindset
-
-Taking an online, self-paced course is a difficult task and requires a certain mindset in order be successful.
 
 First and foremost, foster a growth mindset and take full advantage of the course. Understanding takes time. There will be struggles and frustration when learning something new, especially something as difficult as blockchain development.
 
@@ -24,6 +18,6 @@ As you're going through the course, we recommend you take some time to write dow
 
 It’s impossible to learn these concepts by hearing them once. Instead, you’ll hear concepts multiple times and begin to learn more each time around. Maybe you’ll start programming and it makes some more sense. Finally, you’ll try to explain it to someone and realize there’s a part you don’t understand, which you then have to go back and learn. 
 
-This is the process of learning blockchain, and if you can accept it, it will take the pressure off trying to perfectly understand something the first time you hear it. Instead, try to let it wash over you, ask questions when they come up, but we’re also going to dunk you into the unknown, pull you up to catch your breath, then do it again!
+This is the process of learning blockchain, and if you can accept it, it will take the pressure off trying to perfectly understand something the first time you hear it. Instead, try to let it wash over you, ask questions when they come up, but we’re also going to dive into the unknown, pull you up to catch breath, then do it again!
 
-Always keep in mind, if you find yourself truly stuck and need assistance, post a question into the relevant course chat and someone will be sure to assist. We are all here to learn and grow.
+Always keep in mind, if you find yourself truly stuck and need assistance, post a question into the relevant course chat and I will for sure try to assist. We are all here to learn and grow.
