@@ -1,6 +1,4 @@
-  Currently on LMS
+  When To Use a Blockchain?
 ================
 
-  This content is a video hosted on courses.consensys.net (for now)
-
- 
+  https://streamable.com/qbm9ih
