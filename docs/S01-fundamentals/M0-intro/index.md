@@ -1,7 +1,7 @@
 Fundamentals
 ============
 
-**dusts hands* Well, well...Looks like we finally made it to the course content! Took us long enough, eh?*  Despite the Bitcoin white paper being written in 2008, Bitcoin, and blockchain generally, should be seen as the continuation of decades of technological development. In this first section, Fundamentals, we'll learn what those developments are and how they combine to become what we call blockchain.
+Despite the Bitcoin white paper being written in 2008, Bitcoin, and blockchain generally, should be seen as the continuation of decades of technological development. In this first section, Fundamentals, we'll learn what those developments are and how they combine to become what we call blockchain.
 
 This first section will lay the foundation for the rest of this course but we hope it will also broaden your understanding of computer programming, security and networking. The cryptographic and distributed computing tools you'll learn in this section are used in every facet of digital life. Online banking, communication networks, cloud providers, aerospace engineering and many more fields pull from similar starting points. By learning them here, you'll better your understanding of those systems, too.
 
