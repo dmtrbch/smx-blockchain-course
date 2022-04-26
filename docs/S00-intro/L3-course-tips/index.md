@@ -4,7 +4,7 @@
 
 First and foremost, foster a growth mindset and take full advantage of the course. Understanding takes time. There will be struggles and frustration when learning something new, especially something as difficult as blockchain development.
 
-Fortunately, enrolling in a continuing education course such as this indicates that you already exhibit a growth mindset. [Here is a short video](https://www.youtube.com/watch?v=Xv2ar6AKvGc){target=_blank} that shows the differences and talks about how you can demonstrate a growth mindset throughout this course.
+Fortunately, enrolling in a continuing education course such as this indicates that you already exhibit a growth mindset. [Here is a short video](https://www.youtube.com/watch?v=Xv2ar6AKvGc) that shows the differences and talks about how you can demonstrate a growth mindset throughout this course.
 
 ## Ask All the Questions
 
