@@ -27,8 +27,6 @@ Major ransomware attacks like [the SolarWinds attack](https://en.wikipedia.org/w
 
  The goal of LavaMoat is to bring added protections to modern JavaScript apps without having to rewrite them from scratch and automate a good first-start security configuration.
 
- Learn more about LavaMoat below and, in the next section, we'll hear from MetaMask co-founder Dan Finlay talk about MetaMasks' broader contributions in building a secure, extensible JavaScript to power a decentralized future.
-
  Additional Material
 -------------------
 
