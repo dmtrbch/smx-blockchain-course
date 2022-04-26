@@ -1,6 +1,8 @@
-  Currently on LMS
+  A Chain of Blocks
 ================
 
-  This content is a video hosted on courses.consensys.net (for now)
+  This video will offer an explanation of how a chain of blocks builds on its own security.
+
+  https://streamable.com/obw7ps
 
  
